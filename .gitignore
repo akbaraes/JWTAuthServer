@@ -1,0 +1,4 @@
+*.dll
+/AuthenticationServer/bin
+/AuthenticationServer/obj
+/.vs
